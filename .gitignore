@@ -1,0 +1,12 @@
+*.err
+*.out
+*.OU
+*.ER
+*.pbs
+*.pyc
+*.o
+*.so
+*~
+*#
+*.svg
+*.json
